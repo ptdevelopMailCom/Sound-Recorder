@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SoundRecorderCopy</string>
+    <string name="channel_name">Notification</string>
+    <string name="channel_id">Notification</string>
+    <string name="channel_desciption">Notification</string>
+    <string name="menu_setting">setting</string>
+    <string name="tab_item_record">recording</string>
+    <string name="tab_item_saved_recordings">saved recordings</string>
+    <string name="record_fragment_text">Tap the button to start recording</string>
+
+    <string name="dialog_file_title">Options</string>
+    <string name="dialog_file_intent_title">Selections</string>
+    <string name="dialog_file_share">Share File</string>
+    <string name="dialog_file_rename">Rename File</string>
+    <string name="dialog_file_delete">Delete File</string>
+
+
+    <string name="dialog_file_delete_query">Are you sure to delete this file?</string>
+</resources>
